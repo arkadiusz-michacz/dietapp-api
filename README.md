@@ -1,0 +1,1 @@
+Small CRUD API for my android diet app. Using Jersey and Hibernate
